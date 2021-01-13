@@ -1,4 +1,4 @@
-# ** Facturador PRO 3 **
+# **Facturador PRO 3**
 
 
 ## Manuales de Instalación
@@ -37,7 +37,7 @@ Linux - Ubuntu 18 - Docker - SSL opcional<br>
 
 ### Manuales de Usuario
 
-[Manual de usuario](https://drive.google.com/file/d/1pdKdhYAvVcTPa7GkGFMJJhki1StetvF3/view?usp=sharing "Clic")<br>
+[Manual de usuario](https://docs.google.com/document/d/1i7yKGy3rIvv9TrnwRWZifTuZMMnZ8dbWpqcjPZ3ClmE/edit "Clic")<br>
 [Manual de Tareas Programadas](https://docs.google.com/document/d/1Cu3Kpgv9HvMAV4fwVNbR-CFc0uTu_-qEVLT-MIuxBTQ/edit?usp=sharing "Clic")<br>
 [Manual de Cambio de Entorno](https://docs.google.com/document/d/1IBXczY4b1YvSnGdFlIklpb8HGlQcP1lN44rpXbtYyUc/edit "Clic")<br>
 [Manual de Pruebas](https://docs.google.com/document/d/1ht9JS7VdXiZrPmsqe3Dz-325lN_qEHDVVbieYU4Kay8/edit "Clic")
@@ -95,16 +95,16 @@ Recreación de documentos: [Guía](https://drive.google.com/open?id=1_ZvNpA3_Iyv
 Manual de cambios privados: [Guía](https://drive.google.com/open?id=1ePniWwGvylJDzHTcPOj6E_nQtD_eO6PCReB_xwzOn98 "Clic")<br>
 Validador documentos: [Guía](https://docs.google.com/document/d/1v6XpJrEwCx3suRzRsa4-3-kcAghRvS9DHS5esb89SuI/edit "Clic")<br>
 
-## Factura Perú
+## Tuefact Perú
 
-[facturaperu.com.pe](http://facturaperu.com.pe "Clic")<br>
-soporte@facturaperu.com.pe<br>
-wsapp: 977860500<b>
+[jctisolutions.com](http://www.tuefact.com "Clic")<br>
+jc.tisolutions@gmail.com<br>
+wsapp: +51 969 716 361<b>
 
 
 ### Panel de cliente
 
-[URL](https://demo.e.org.pe "Clic")
+[URL](https://demo.tuefact.com "Clic")
 <br>
-Usuario: demo@e.org.pe<br>
+Usuario: demo@tuefact.com <br>
 Contraseña: 123456
